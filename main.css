@@ -601,6 +601,9 @@ order:  12;
     font-size: 20px;
     line-height: 1.4;
   }
+  .about-img{
+    width: 100%;
+  }
 }
 
 .count {
@@ -720,7 +723,7 @@ color: #000000;
 
 .mission-info-img{
   position: absolute;
-  bottom: -33;
+  bottom: -33px;
   right: -100px;
 max-width:190px ;
 }
